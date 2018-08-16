@@ -5,3 +5,5 @@ This project will help you create a home automation prototype with the onion ome
 1. A pir sensor
 2. A module of relays
 3. RFC module
+
+For more information about the Onion Omega 2, visit https://docs.onion.io/omega2-docs/first-time-setup.html
